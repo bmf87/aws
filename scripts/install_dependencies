@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install -y python38
+amazon-linux-extras install python3.8
