@@ -1,2 +1,2 @@
 # aws
-Python code to perform help actions in AWS
+Various utilities to perform some helpful operations in AWS
