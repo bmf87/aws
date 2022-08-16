@@ -3,6 +3,8 @@ os: linux
 files:
   - source: /run.sh
     destination: /app/ebs
+  - source: /src
+    destination: /app/ebs
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
